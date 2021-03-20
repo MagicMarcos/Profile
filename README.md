@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_magicmarcos" target="blank"><img src="https://img.shields.io/twitter/follow/_magicmarcos?logo=twitter&style=for-the-badge" alt="_magicmarcos" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://marcoscardoso.netlify.app](https://marcoscardoso.netlify.app)
+- 👨‍💻 All of my projects are available at <a href = "https://marcoscardoso.netlify.app">my website</a>
 
 - 📫 How to reach me **mcardosojr94@gmail.com**
 
