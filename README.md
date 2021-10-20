@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact **I'm an amateur strongman competitor**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/_magicmarcos" target="blank"><img src="https://img.shields.io/twitter/follow/_magicmarcos?logo=twitter&style=for-the-badge" alt="_magicmarcos" /></a> </p>
