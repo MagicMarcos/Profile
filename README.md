@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available <a href = "https://marcoscardoso.netlify.app">**here**</a>
 
-- 📫 How to reach me **marcosdev94@gmail.com**. Let's chat! 
+- 📫 Email me at **marcosdev94@gmail.com**. Let's chat! 
 
 - ⚡ Fun fact **I'm an amateur strongman competitor**
 
