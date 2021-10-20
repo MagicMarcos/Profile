@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A software engineer on a mission to empower his community</h3>
+<h3 align="center">A software engineer on a mission to empower his community</h3> 
 
 
 - 👨‍💻 All of my projects are available <a href = "https://marcoscardoso.netlify.app">**here**</a>
