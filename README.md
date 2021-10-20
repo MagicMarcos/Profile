@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A software engineer on a mission to empower his community</h3>
 
-
+<p align="left"> <a href="https://twitter.com/_magicmarcos" target="blank"><img src="https://img.shields.io/twitter/follow/_magicmarcos?logo=twitter&style=for-the-badge" alt="_magicmarcos" /></a> </p>
 
 - 👨‍💻 All of my projects are available <a href = "https://marcoscardoso.netlify.app">**here**</a>
 
@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/_magicmarcos" target="blank"><img src="https://img.shields.io/twitter/follow/_magicmarcos?logo=twitter&style=for-the-badge" alt="_magicmarcos" /></a> </p>
+
 
 <a href="https://www.linkedin.com/in/marcoscardoso-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
